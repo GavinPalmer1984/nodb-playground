@@ -4,7 +4,7 @@ building learning tests for nodb
 ## setup
 
 ```
-git clone https://github.com/heroLFG/nodb-playground.git
+git clone git@github.com:heroLFG/nodb-playground.git
 cd nodb-playground
 virtualenv .virtual
 
