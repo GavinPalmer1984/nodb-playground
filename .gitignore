@@ -1,3 +1,5 @@
+.virt/*
 .virtual/*
 settings.json
 *.pyc
+launch.json
